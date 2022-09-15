@@ -1,0 +1,29 @@
+
+body{
+    font-size: 16px;
+}
+
+h1{
+    font-size: 68px;
+    color: orange;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+ul{
+    background-color: rgb(98, 195, 224);
+}
+
+p{
+    font-weight: 600;
+    font-size: 3em;
+    text-decoration: underline;
+}
+
+.alteracao4{
+    background-color: rgb(191, 119, 206);
+}
+
+li{
+    font-style: italic;
+}

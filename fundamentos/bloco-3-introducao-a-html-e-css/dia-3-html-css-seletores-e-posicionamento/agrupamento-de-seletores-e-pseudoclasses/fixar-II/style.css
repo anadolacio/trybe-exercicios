@@ -1,0 +1,38 @@
+div:hover {
+   border: 10px solid purple;
+}
+
+div {
+    margin: 50px 30px;
+}
+
+#primaria h3 {
+    background-color: blue;
+    color: white;
+}
+#secundaria h3 {
+    background-color: green;
+    color: orange;
+}
+#complementar h3 {
+    background-color: orange;
+    margin: 0;
+    padding: 20px;
+    color: palevioletred;
+}
+
+#escura h3 {
+    background-color:  rgb(104, 12, 50);
+    color: greenyellow;
+}
+
+#clara h3 {
+    background-color: rgb(233, 192, 229);
+    color: blue;
+}
+
+h3 {
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}

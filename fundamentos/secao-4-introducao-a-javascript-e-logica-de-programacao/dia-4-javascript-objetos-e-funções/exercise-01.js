@@ -10,7 +10,13 @@ let info = {
   console.log(`Bem vinda, ${info.personagem}`);
   
   // Parte 2 - Insira no objeto uma nova propriedade com o nome de chave ‘recorrente’ e o valor ‘Sim’ e, em seguida, imprima o objeto no console. 
-  
+
   console.log(info);
 
-  
+  // Parte 3 - Faça um for/in que mostre todas as chaves do objeto
+
+  for (let key in info) {
+    console.log(key);
+  }
+
+  // Parte 4 - Faça um novo for/in, mas agora mostre todos os valores das chaves do objeto.

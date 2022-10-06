@@ -8,22 +8,33 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 
-##### Bloco 1: Introdução - Unix & Shell
+##### Seção 1: Introdução - Unix & Shell
 
-- [ ] 1-1: _Fundamentos do Desenvolvimento Web_
-- [ ] 1-2: _Introdução - Unix & Shell_
-- [ ] 1-3: _Unix & Shell- Part 1_
-- [ ] 1-4: _Unix & Shell- Part 2_
+- [ ] Dia 1: _Fundamentos do Desenvolvimento Web_/ _Introdução - Unix & Shell_/ _Unix & Shell- Part 1_
+- [ ] Dia 2: _Unix & Shell- Part 2_
 
-##### Bloco 2: Git & GitHub
+##### Seção 2: Git & GitHub
 
-- [ ] 2-1: _Git - O que é e para que serve?_
-- [ ] 2-2: _Git - Entendendo os comandos_
-- [ ] 2-3: _Internet - Entendendo como ela funciona_
+- [ ] Dia 1: _Git - O que é e para que serve?_/ _Entendendo os comandos_
+- [ ] Dia 2: _Internet - Entendendo como ela funciona_
 
-##### Bloco 3: Introdução à HTML e CSS
+##### Seção 3: Introdução à HTML e CSS
 
-- [ ] 3-1: HTML & CSS - Estrutura de página
-- [ ] 3-2: HTML & CSS - Primeiros passos em CSS
-- [ ] 3-3: HTML & CSS - Seletores e posicionamento
-- [ ] 3-4: HTML & CSS - Semântico
+- [ ] Dia 1: HTML & CSS - Estrutura de página
+- [ ] Dia 2: HTML & CSS - Primeiros passos em CSS
+- [ ] Dia 3: HTML & CSS - Seletores e posicionamento
+- [ ] Dia 4: HTML & CSS - Semântico
+
+##### Seção 4: Introdução à JavaScript
+
+- [ ] Dia 1: JavaScript - Primeiros Passos
+- [ ] Dia 2: JavaScript - Array e loop for
+- [ ] Dia 3: JavaScript - Lógica de Programação e Algoritmos
+- [ ] Dia 4: JavaScript - Objetos e funções
+
+##### Seção 5: JavaScript: DOM, Eventos e Web Storage
+
+- [ ] Dia 1: JavaScript - DOM e seletores
+- [ ] Dia 2: JavaScript - Trabalhando com elementos
+- [ ] Dia 3: JavaScript - Eventos
+- [ ] Dia 4: JavaScript - Web Storage

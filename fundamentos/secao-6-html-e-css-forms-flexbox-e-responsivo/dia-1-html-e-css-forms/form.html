@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css"> 
+    <title>TrybeTrip</title>
+</head>
+<body>
+    <header>
+        <h1>TryberTrip</h1>
+    </header>
+    
+    <main>
+        <form action="" method="get">
+            <section id="main">
+            <section class="person-data" id="name">
+                <label for="name">Nome:</label>
+                <input type="text" minlength="10" maxlength="40" id="name" required>
+            </section>
+
+            <section class="person-data" id="email">
+                <label for="email">Email:</label>
+                <input type="email" minlength="10" maxlength="50" id="email" required>
+            </section>
+
+            <section id="options">
+                <input type="radio" name="option" value="city">
+                <label>City</label>
+                <input type="radio" name="option" value="country">
+                <label>Country</label>
+                <input type="radio" name="option" value="beach">
+                <label>Beach</label>
+                <input type="radio" name="option" value="mountains">
+                <label>Mountains</label>
+            </section>
+
+            <section id="text">
+                <label for="text">Why you should be the dev person winner of the TrybeTrip contest?</label>
+                <textarea cols="80" rows="15" maxlength="500" placeholder="Type not more than 500 characters."></textarea>
+            </section>
+
+            <section id="date">
+                <label for="date">Which is the best date to travel?</label>:</label>
+                <input type="date">
+            </section>
+
+            <section id="agreement">
+                <label for="agreed">Would tou like to receive another amaizing oportunities by Trybe?</label>
+                <input type="checkbox" id="agreed">
+                <br>
+                <label for="agreed">I agree that my vacations pictures could be used on publicity for futures contests.</label>
+                <input type="checkbox" id="agreed" required>
+            </section>
+           </section>
+            <div id="button">
+                <button type="submit" id="send">Send</button>
+                <button type="submit" id="delete">Delete</button>
+            </div>
+
+        </form>
+    </main>
+    <script src="/script.js"></script>
+</body>
+</html>

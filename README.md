@@ -38,3 +38,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] Dia 2: JavaScript - Trabalhando com elementos
 - [ ] Dia 3: JavaScript - Eventos
 - [ ] Dia 4: JavaScript - Web Storage
+
+##### Seção 6: HTML e CSS: Forms, EVentos e WebStorage
+
+- [ ] Dia 1: HTML e CSS - Forms
+- [ ] Dia 2: Bibliotecas JavaScript e Frameworks CSS
+- [ ] Dia 3: CSS Flexbox - Parte 1
+- [ ] Dia 4: CSS Flexbox - Parte 2
+- [ ] Dia 5: CSS Responsivo - Mobile First
+

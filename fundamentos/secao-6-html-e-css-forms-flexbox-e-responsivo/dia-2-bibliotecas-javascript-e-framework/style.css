@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(9, 59, 15);
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color:rgb(111, 165, 109);
+    padding-left: 15%;
+}
+
+#main {
+    background-color: white;
+    border: solid 4px rgb(74, 138, 88);
+    padding: 25px;
+    font-size: 20px;
+    position: left;
+    margin-right: 40%;
+}
+
+.person-data {
+    padding-bottom: 18px;
+}
+
+#text {
+    padding-bottom: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+#date {
+    padding-bottom: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#agreement {
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+div {
+    padding-top: 20px;;
+}
+
+button {
+    width: 160px;
+    height: 45px;
+    border-radius: 8px;
+    font-size: 20px;
+    background-color: white;
+}

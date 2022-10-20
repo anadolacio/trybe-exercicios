@@ -47,3 +47,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] Dia 4: CSS Flexbox - Parte 2
 - [ ] Dia 5: CSS Responsivo - Mobile First
 
+##### Seção 7: Introdução à JavaScript ES6 e Teste Unitários
+
+- [ ] Dia 1: JavaScript ES6 - let, const, arrow functionte literals
+- [ ] Dia 2: JavaScript ES6 - Fluxo de exeção e Objetos
+- [ ] Dia 3: Primeiros passos em Jest
+

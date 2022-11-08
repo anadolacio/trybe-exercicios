@@ -60,3 +60,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] Dia 3: JavaScript ES6 - Higher Order Functions - map e filter
 - [ ] Dia 4: JavaScript ES6 - Higher Order Functions - reduce
 - [ ] Dia 5: JavaScript ES6 - Higher Order Functions - spred operator, parâmetro rest, destructing e mais.
+
+## Front-end:
+
+##### Seção 9: Introdução ao Front-end e JavaScript assíncrono
+
+- [ ] Dia 1: _Ambiente de desenvolvimento
+- [ ] Dia 2: JavaScript Assíncrono - Promises e fetch
+- [ ] Dia 3: Prática - Casa de câmbio
+- [ ] Dia 4: Async, await e testes assíncronos
+
+

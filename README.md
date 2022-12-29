@@ -65,15 +65,24 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 1: Introdução ao Front-end e JavaScript assíncrono
 
-- [ ] Dia 1: _Ambiente de desenvolvimento
+- [ ] Dia 1: Ambiente de desenvolvimento
 - [ ] Dia 2: JavaScript Assíncrono - Promises e fetch
 - [ ] Dia 3: Prática - Casa de câmbio
 - [ ] Dia 4: Async, await e testes assíncronos
 
 ##### Seção 2: Introdução ao React
 
-- [ ] Dia 1: _Hello, world!_ no React
+- [ ] Dia 1: Hello, world!_ no React
 - [ ] Dia 2: Componentes React
 
+##### Seção 3: Componentes com EStado, Eventos e Formulários com React
+
+- [ ] Dia 1: Componentes com estado e eventos
+- [ ] Dia 2: Formulários no React
+
+##### Seção 4: Ciclo de vida de Componentes e React Router
+
+- [ ] Dia 1: Ciclo de vide de componentes
+- [ ] Dia 2: React Router
 
 

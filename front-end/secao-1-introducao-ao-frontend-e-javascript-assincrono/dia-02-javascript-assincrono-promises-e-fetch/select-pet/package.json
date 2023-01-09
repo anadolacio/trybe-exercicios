@@ -1,0 +1,23 @@
+{
+  "name": "select-pet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite --open",
+    "lint": "eslints"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "eslint-config-trybe-frontend": "^1.3.1",
+    "vite": "^3.2.3"
+  },
+  "extends": "trybe-frontend",
+  "devDependencies": {
+    "eslint": "^8.27.0"
+  }
+}
